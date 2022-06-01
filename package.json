@@ -1,5 +1,7 @@
-"homepage": "https://jeankalyson.github.io/projeto_react",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-},
+
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "react-router-dom": "^6.2.1"
+  }
+}
