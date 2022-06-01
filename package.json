@@ -1,4 +1,4 @@
-{homepage": "https://jeankalyson.github.io/projeto_react",
+homepage": "https://jeankalyson.github.io/projeto_react",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
